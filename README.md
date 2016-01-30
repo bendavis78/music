@@ -9,7 +9,7 @@
 * Show some basic information below each thumbnail
 * Make the thumbnail zoom in when clicked (similar to portfolio page)
 * Make it responsive. Test it out on multiple screen sizes. Use Chrome's "[mobile device mode](https://developer.chrome.com/devtools/docs/device-mode)" (Ctrl + Shift +M)
-* Extra credit: add some basic navigation at the top of the screen
+* Extra credit: add some basic navigation at the top of the screen (it can be "dummy" navigation, the buttons don't have to do anything for now).
 
 Use the following screenshots for a rough idea of what to do (be creative, don't make an exact match):
 
