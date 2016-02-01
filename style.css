@@ -2,6 +2,7 @@
     text-after-edge : center;
 }
 
+<<<<<<< HEAD
 
 .albums .col {
     margin-bottom:24px;
@@ -22,3 +23,16 @@
     text-align: center;
     font-family:;
 }
+=======
+container .img{
+    width: 40px;
+    display: inline-block;
+    float: right;
+    height: 40px;
+}
+
+
+.fan_page{
+    text-align: center;
+}
+>>>>>>> 6792f2b2658a0196227fb6203fa478f401e8b2d4
