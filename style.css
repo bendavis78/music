@@ -1,3 +1,15 @@
 .section container h1{
     text-after-edge : center;
 }
+
+container .img{
+    width: 40px;
+    display: inline-block;
+    float: right;
+    height: 40px;
+}
+
+
+.fan_page{
+    text-align: center;
+}
