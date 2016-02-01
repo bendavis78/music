@@ -1,3 +1,24 @@
 .section container h1{
     text-after-edge : center;
 }
+
+
+.albums .col {
+    margin-bottom:24px;
+}
+
+.albums .albums-holder {
+    clear:both;
+    text-align:center;
+}
+
+.albums img {
+    width:33%;
+    display:inline-block;
+    float:left;
+}
+
+.header h1 {
+    text-align: center;
+    font-family:;
+}
